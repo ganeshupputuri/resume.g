@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ganeshupputuri/resume.g/issues"
   },
-  "homepage": "https://github.com/ganeshupputuri/resume.g#readme"
+  "homepage": "https://github.com/ganeshupputuri/resume.g#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
