@@ -1,5 +1,4 @@
-*
-{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -48,7 +47,7 @@ body
     height:30px;
     margin-right:15px;
 }
-.social-media
+.social-media 
 {
     margin-top:20px;
     margin-left:15px
@@ -58,7 +57,7 @@ body
     margin-top: 50px;
     margin-bottom: 15px;
 }
-.EDUCATION
+.EDUCATION 
 {
   height: 5%;
     margin: 5px;
